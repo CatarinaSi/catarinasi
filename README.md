@@ -1,16 +1,12 @@
-### Hi there 👋
+print('olá, o meu nome é Catarina e aqui podes saber um pouquinho mais sobre mim 🤪')
 
-<!--
-**CatarinaSi/catarinasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🤸 Estou sempre a querer aprender mais, mas neste momento estou a explorar o mundo da linguagem JAVA.
+- 📫  Para contacto usa o meu e-mail: catarinapelixo.simoes@gmail.com
+- 🎸 hobbies: Ler (quem não é feliz com um bom livro nas mãos?), ver netflix, jogar voleibol, costurar e correr.
+- ⚡ Fun fact: Não vivo sem um latte pela manhã
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/catarinaSi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catarinaSi&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaSi&layout=compact&langs_count=7&theme=jolly"/>
+</div>
