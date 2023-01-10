@@ -4,7 +4,7 @@
 ```javascript
 const anmol = {
     pronouns: "She" 
-    code: ["Javascript", "Python", "Java"],
+    code: ["Java"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
  
         devOps: [ "Docker🐳"],
